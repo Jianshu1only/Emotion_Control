@@ -1,0 +1,1 @@
+streamlit run interactive_emotion_generator.py
