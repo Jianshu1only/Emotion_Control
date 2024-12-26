@@ -127,7 +127,6 @@ PyYAML==6.0.2
 pyzmq==26.2.0
 referencing==0.35.1
 regex==2024.9.11
--e git+https://github.com/Jianshu1only/RepE.git@9e8593ebf9db022d05f7bf17f4428f392d456462#egg=repe
 requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
