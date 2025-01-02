@@ -13,7 +13,7 @@ COPY . /app
 RUN pip install -r requirements.txt --use-deprecated=legacy-resolver
 
 # Make port 80 available to the world outside this container
-EXPOSE 8507
+EXPOSE 8501
 
 # Define environment variable
 # ENV NAME World
